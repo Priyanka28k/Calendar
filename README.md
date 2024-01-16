@@ -1,6 +1,14 @@
+#Output of this calendar project
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
+
+https://github.com/Priyanka28k/Calendar/assets/104508277/42342cc4-9bda-43a1-a367-c8a61fa0f79f
+
+
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
